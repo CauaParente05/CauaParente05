@@ -5,10 +5,10 @@
 - 😄 Pronouns: Ele/Dele
 
 <a href="https://github.com/CauaParente05/">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=He1nka&theme=dark" />
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=CauaParente05/&theme=dark" />
 </a>
 <a href="https://github.com/CauaParente05/">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=He1nka&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CauaParente05&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 #
