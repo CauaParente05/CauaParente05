@@ -1,5 +1,5 @@
-## Olá! Meu nome é Cauã!
-
+# Hi there!
+- 👤 Meu nome é Cauã
 - 🔭 Atualmente estou cursando Ciência da computação
 - 🌱 Estou aprendendo Python, C/C++ e Javascript
 - 😄 Pronouns: Ele/Dele
