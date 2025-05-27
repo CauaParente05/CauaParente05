@@ -1,7 +1,7 @@
 # Hi there!
-- 👤 Meu nome é Cauã
+- 👤 My name is Cauã
 - 🔭 Atualmente estou cursando Ciência da computação
-- 🌱 Estou aprendendo Python, C/C++ e Javascript
+- 🌱 I am learning Python, C/C++ e Javascript
 - 😄 Pronouns: Ele/Dele
 
 <a href="https://github.com/CauaParente05/">
