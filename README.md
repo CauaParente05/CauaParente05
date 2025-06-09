@@ -1,14 +1,22 @@
-# Hi there!
+<h1 align=center>
+Hi there!
+</h1>
+
 
 - 👤 My name is Cauã
 - 🔭 I am currently persuing a degree in Computer Science at CESAR School
 - 🌱 I am learning Python, C/C++ e Javascript
 - 😄 Pronouns: He/Him
 
+<div align=center>
+
 ## 📩 How to reach me:
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauahenriquepar/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauahenriqueccpar@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauaparente/)
+</div>
+
+---
 
 ### Languages and Tools:
 
@@ -21,7 +29,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
 
+<div align=center>
+
 ---
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=CauaParente05&theme=dark)](https://github.com/CauaParente05/)
+
 ---
+
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=CauaParente05&layout=compact&langs_count=8&card_width=320&theme=dark)](https://github.com/CauaParente05/)
+
+</div>
